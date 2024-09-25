@@ -1,16 +1,12 @@
 {
-  "name": "nuxt-gravatar",
+  "name": "@eurym3d0n/nuxt-gravatar",
   "version": "1.0.0",
   "description": "A dead simple Gravatar component for Nuxt",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JessyLELIEVRE/nuxt-gravatar"
+    "url": "git+https://github.com/JessyLELIEVRE/nuxt-gravatar.git"
   },
-  "author": {
-    "name": "Jessy LELIEVRE",
-    "email": "jessylelievre@outlook.fr",
-    "url": "https://jessylelievre.fr"
-  },
+  "author": "Jessy LELIEVRE <jessylelievre@outlook.fr> (https://jessylelievre.fr)",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -52,5 +48,19 @@
     "typescript": "latest",
     "vitest": "^2.1.1",
     "vue-tsc": "^2.1.6"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "Gravatar",
+    "NuxtJS",
+    "Vue",
+    "TypeScript",
+    "Components"
+  ],
+  "bugs": {
+    "url": "https://github.com/JessyLELIEVRE/nuxt-gravatar/issues"
+  },
+  "homepage": "https://github.com/JessyLELIEVRE/nuxt-gravatar#readme"
 }
