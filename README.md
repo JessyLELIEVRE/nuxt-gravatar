@@ -5,19 +5,19 @@ A dead simple Gravatar component for NuxtJS 3.
 ## Installation
 
 ```none
-npm i JessyLELIEVRE/nuxt-gravatar
+npm i @eurym3d0n/nuxt-gravatar
 ```
 
 or
 
 ```none
-yarn add JessyLELIEVRE/nuxt-gravatar
+yarn add @eurym3d0n/nuxt-gravatar
 ```
 
 or
 
 ```none
-pnpm add JessyLELIEVRE/nuxt-gravatar
+pnpm add @eurym3d0n/nuxt-gravatar
 ```
 
 ## Usage
