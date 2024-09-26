@@ -54,7 +54,7 @@ or
 |alt        |String| -       | [ ]       | Size of the Gravatar image |
 |defaultImg |String| retro   | [ ]       | '404' or 'mp' or 'identicon' or 'monsterid' or 'wavatar' |
 |rating     |String| g       | [ ]       | 'g' or 'pg' or 'r' or 'x' |
-|classList        |String| -       | [ ] |	Optional class names to style the image. |
+|classList  |String| -       | [ ]       | Optional class names to style the image. |
 
 ### To-Do
 * [ ] Make Test

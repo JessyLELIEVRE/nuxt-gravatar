@@ -3,8 +3,7 @@ import { defineNuxtModule } from '@nuxt/kit'
 
 export default defineNuxtModule({
   meta: {
-    name: 'JessyLELIEVRE/nuxt-gravatar',
-    configKey: 'nuxt-gravatar',
+    name: '@eurym3d0n/nuxt-gravatar',
   },
 
   setup(_options, _nuxt) {},

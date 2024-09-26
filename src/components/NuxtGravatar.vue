@@ -37,9 +37,6 @@ const props = defineProps({
 })
 
 const url = computed(() => {
-  if (!props.email) {
-    return ''
-  }
   const emailHash = props.hash || sha256(props.email.trim().toLowerCase()).toString()
   const params = new URLSearchParams({
     d: props.defaultImg,
