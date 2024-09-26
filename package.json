@@ -1,6 +1,6 @@
 {
   "name": "@eurym3d0n/nuxt-gravatar",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A dead simple Gravatar component for Nuxt",
   "repository": {
     "type": "git",
@@ -42,9 +42,13 @@
     "@nuxt/schema": "^3.13.2",
     "@nuxt/test-utils": "^3.14.2",
     "@types/node": "latest",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vue/test-utils": "^2.4.6",
     "changelogen": "^0.5.7",
     "eslint": "^9.11.0",
+    "jsdom": "^25.0.1",
     "nuxt": "^3.13.0",
+    "playwright-core": "^1.47.2",
     "typescript": "latest",
     "vitest": "^2.1.1",
     "vue-tsc": "^2.1.6"
