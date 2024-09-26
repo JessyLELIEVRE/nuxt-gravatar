@@ -1,6 +1,6 @@
 {
   "name": "@eurym3d0n/nuxt-gravatar",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "description": "A dead simple Gravatar component for Nuxt",
   "repository": {
     "type": "git",
